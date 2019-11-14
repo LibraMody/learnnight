@@ -1,0 +1,107 @@
+.main-nav {
+    text-align: right;
+    font-size: 13px;
+    margin-top: 16px;
+}
+
+.main-nav a {
+    color: black;
+    margin-left: 18px;
+}
+
+.main-nav a:hover {
+    color: blue;
+}
+
+.main-nav .btn {
+    color: white;
+    background-color: dodgerblue;
+    border: 1px solid dodgerblue;
+    padding: 2px;
+    margin-left: 18px;
+}
+
+.main {
+    text-align: center;
+    margin-top: 130px;
+}
+
+.main .swiper-container {
+    height: 161.44px;
+    width: 287px;
+}
+
+.main .swiper-container .swiper-wrapper img {
+    width: 100%;
+}
+
+.main .swiper-container .swiper-button-next {
+    height: 15%;
+}
+
+.main .swiper-container .swiper-button-prev {
+    height: 15%;
+}
+.main .search {
+    font-size: 0;
+}
+
+.main .search #inText {
+    margin-top: 10px;
+    width: 530px;
+    height: 30px;
+    border: 1px solid Aquamarine;
+}
+
+.main .search #myBtn {
+    color:white;
+    width: 100px;
+    height: 34px;
+    background-color: dodgerblue;
+    border: dodgerblue;
+}
+.main .camera {
+    position: relative;
+    top: -28px;
+    margin-left: 400px;
+    display: inline-block;
+}
+
+.footer {
+    text-align: center;
+    position: relative;
+    top: 270px;
+}
+
+.footer .qrcode {
+    display: block;
+}
+
+.footer .qrcode .note {
+    color: darkgray;
+    font-size: 15px;
+}
+
+.footer .guide {
+    margin-top: 30px;
+}
+
+.footer .guide a {
+    font-size: 12px;
+    margin: 0 10px ;
+    color: darkgray;
+}
+
+.footer .service {
+    color: darkgray;
+    font-size: 12px;
+    margin-top: 10px;
+}
+
+.footer .service a {
+    color: darkgray;
+}
+
+.footer .service .down {
+    margin-left: 25px;
+}
